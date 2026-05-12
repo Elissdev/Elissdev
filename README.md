@@ -15,6 +15,7 @@ Sou uma apaixonada por tecnologia e animais, atuando na área de **Qualidade de 
 
 #### Desenvolvimento & DevOps
 * **Linguagens & Frameworks:** PHP, JavaScript.
+* **Inteligência Artificial:** Desenvolvimento assistido por IA como copiloto diário para ganho de produtividade, revisão de código e aceleração do aprendizado.
 * **Ambientes & Ferramentas:** Uso diário de Linux (Pop!_OS), Docker (isolamento de ambientes) e VS Code.
 * **CI/CD:** Criação de pipelines de integração contínua com GitHub Actions.
 
