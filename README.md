@@ -45,7 +45,7 @@ Na Codamos fui responsável pelo primeiro atendimento das falhas do Apiário, pr
 - Leitura de log de aplicação e de pipeline
 - SQL: SELECT, JOIN, filtros, agregações e subconsultas
 - APIs REST: status code, payload, autenticação, timeout
-- Jira, GitHub Issues, Trello
+- GitHub Issues e Projects, Trello
 - Windows, Linux, Docker, Git
 - POP, runbook e base de conhecimento
 - ITIL: incidente, requisição, problema e escalonamento (em estudo)
@@ -81,13 +81,15 @@ Na Codamos fui responsável pelo primeiro atendimento das falhas do Apiário, pr
 
 ## Experiência
 
-**Analista de Qualidade de Software · Codamos** (03/2026 a 10/2026)
-Primeiro atendimento das falhas reportadas por cliente e pelo time, com diagnóstico inicial, coleta de evidências, registro no Jira e no GitHub Issues e acompanhamento até a validação da correção. Responsável por POPs e base de conhecimento, monitoramento de alertas de pipeline e esteira de CI/CD com GitHub Actions, Docker e OWASP ZAP.
+**Analista de Qualidade de Software · Codamos**
+Primeiro atendimento das falhas reportadas por cliente e pelo time: triagem, diagnóstico inicial, coleta de evidência em log e requisição, registro e acompanhamento no GitHub Issues até a validação da correção. Também fui responsável por POPs, fluxogramas e base de conhecimento, pelo monitoramento de alertas de pipeline e pela esteira de CI/CD com GitHub Actions, Docker e OWASP ZAP.
 
-**Recepcionista · Alergo Dermatologia Integrada** (08/2022 a 03/2026)
+No QA, escrevi cenários e casos de teste a partir de história de usuário e critério de aceite, executei testes manuais, exploratórios, funcionais e de regressão e registrei cada defeito com passos de reprodução e evidência. Automatizei fluxos críticos com Cypress, testes de API com Jest e Supertest e testes unitários com PHPUnit, com relatório de execução em PDF. Acompanhei cobertura e bugs por release para dar visibilidade à qualidade.
+
+**Recepcionista · Alergo Dermatologia Integrada**
 Atendimento ao público com resolução no mesmo dia. Acompanhamento da migração do sistema Simah para o Feegow, com registro de falha, teste de fluxo e cobrança da correção junto ao fornecedor.
 
-**Recreador e Suporte de Supervisão · KidZania Brasil** (04/2015 a 11/2020)
+**Recreador e Suporte de Supervisão · KidZania Brasil**
 Atendimento a visitante, operação de caixa, resolução de reclamação e treinamento de novos colaboradores.
 
 **Formação:** Bacharelado Interdisciplinar em Ciência e Tecnologia, UFMT (em andamento, conclusão prevista para 2027)
